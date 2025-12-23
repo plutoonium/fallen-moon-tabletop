@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mechanics/Soul.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soul"
+              "title": "README"
             }
           },
           {
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +232,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "435d45a71a4c22c8",
+  "active": "fbd0d5ea7508384e",
   "lastOpenFiles": [
+    "to-do.md",
+    "README.md",
+    "mechanics/Character Creation.md",
+    "mechanics/Soul.md",
     "mechanics/helpme.md",
     "testing testing.md",
-    "README.md",
-    "mechanics/Soul.md",
-    "mechanics/Character Creation.md",
     "world/Artificial Soul.md",
     "world",
     "mechanics",

@@ -2,7 +2,7 @@ There are many uncertainties in the world. Academics need something to study, af
 1. Every sentient creature has either a soul or, in edge cases, something that stands in for a soul.
 2. Energy cannot be created or destroyed.
 
-You probably know where this is going. Every creature's soul is recycled. An echo of an echo of an echo of a lifeform past. In this game, this manifests mechanically through one trait.
+You probably know where this is going. Every creature's soul is recycled. An echo of an echo of an echo of a lifeform past. In-game, this manifests mechanically through one trait.
 
 # Soul
 If you are playing a character in the setting of Fallen Moon, that character almost certainly has a Soul. Without a soul, one cannot be deemed sapient (with the exception of artificial Souls). The Soul is the essence of one's individuality, of one's singularity. Without it, one operates purely for survival and never for fulfillment.

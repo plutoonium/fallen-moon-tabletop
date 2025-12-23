@@ -7,3 +7,12 @@ A very long time later, something resembling life began to emerge. They were not
 A very long time after that, the last of those first not-quite-alive-but-not-quite-dead creatures ceased to be. By that point, though, actual *life* had begun again to dominate the planet. Thanks to these new creatures, Rubblefolk are immortalized in folk-tales. The ones who came before Rubblefolk are not.
 
 It is now some thousand-and-a-half years after the last of the Rubblefolk ceased to be. The new wave of sentient life is going strong and has successfully maintained and grown the civilization that Rubblefolk first fostered. These circumstances are a breeding ground for interesting goings-on. Why not guess at what some of them are?
+
+
+## To-Do
+This is still very much a WIP. Off the top of my head, these are things that need to be ironed out, in order of importance.
+1. Dice system
+2. Resolution mechanic
+3. Character creation system
+4. Species and role system (tied to above)
+5. World, settings etc
