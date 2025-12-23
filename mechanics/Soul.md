@@ -4,7 +4,7 @@ There are many uncertainties in the world. Academics need something to study, af
 You probably know where this is going. Every creature's soul is recycled. An echo of an echo of an echo of a lifeform past. In this game, this manifests mechanically through one trait.
 
 # Soul
-If you are playing a character in the setting of Fallen Moon, that character almost certainly has a Soul. Without a soul, one cannot be deemed sapient (with the exception of [[artificial Soul]]s). The Soul is the essence of one's individuality, of one's singularity. Without it, one operates purely for survival and never for fulfillment.
+If you are playing a character in the setting of Fallen Moon, that character almost certainly has a Soul. Without a soul, one cannot be deemed sapient (with the exception of artificial Souls). The Soul is the essence of one's individuality, of one's singularity. Without it, one operates purely for survival and never for fulfillment.
 
 ## Your first character
 When you first create a character, you may choose between one of two things:
@@ -12,6 +12,6 @@ When you first create a character, you may choose between one of two things:
 2. A social trait of your choosing, approved by the GM.
 This trait applies to your character, yes, but it is not a trait of that character. It is a trait of their Soul. This trait is, for much of a Fallen Moon campaign, no different from any other trait of a character's. It is not unless your character dies that the trait is shown to be any different
 ## Your next character
-As is said in [[character creation <I have not written this one yet>]], should a player character wind up meeting an untimely end, it is recommended that the player create a new character to enter the narrative in their stead. The character creation process is largely the same the second time around, but things differ when Soul comes up.
+As is said in Character Creation, should a player character wind up meeting an untimely end, it is recommended that the player create a new character to enter the narrative in their stead. The character creation process is largely the same the second time around, but things differ when Soul comes up.
 You should keep the Soul trait you decided upon for your first character in most cases. This represents the recycling of souls, as the death of the body means not the death of a Soul. 
-If the player or GM believes that it makes sense either narratively or mechanically, however, a new player character may adopt a new Soul and a new trait to match. An example of a reason to give a new character a new Soul is if the new character has an [[world/artificial Soul]]. Artificial Souls, as the name implies, are completely disconnected from the energy-recycling process that most Souls undergo, and therefore a character with one *should not* have the same Soul or connected trait.
+If the player or GM believes that it makes sense either narratively or mechanically, however, a new player character may adopt a new Soul and a new trait to match. An example of a reason to give a new character a new Soul is if the new character has an artificial Soul. Artificial Souls, as the name implies, are completely disconnected from the energy-recycling process that most Souls undergo, and therefore a character with one *should not* have the same Soul or connected trait.
