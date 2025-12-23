@@ -15,5 +15,6 @@ When you first create a character, you may choose between one of two things:
 This trait applies to your character, yes, but it is not a trait of that character. It is a trait of their Soul. This trait is, for much of a Fallen Moon campaign, no different from any other trait of a character's. It is not unless your character dies that the trait is shown to be any different.
 ## Your next character
 As is said in Character Creation, should a player character wind up meeting an untimely end, it is recommended that the player create a new character to enter the narrative in their stead. The character creation process is largely the same the second time around, but things differ when Soul comes up.
+
 You should keep the Soul trait you decided upon for your first character in most cases. This represents the recycling of souls, as the death of the body means not the death of a Soul. 
 If the player or GM believes that it makes sense either narratively or mechanically, however, a new player character may adopt a new Soul and a new trait to match. An example of a reason to give a new character a new Soul is if the new character has an artificial Soul. Artificial Souls, as the name implies, are completely disconnected from the energy-recycling process that most Souls undergo, ergo a character with one *should not* have the same Soul or connected trait.
