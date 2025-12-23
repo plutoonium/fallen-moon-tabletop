@@ -1,4 +1,4 @@
-There are many uncertainties in the world. Academics need something to study, after all. Some things have been found for certain or, at least, relative certain, though. Two important facts are:
+There are many uncertainties in the world. Academics need something to study, after all. Some things have been found for certain or, at least, somewhat certain, though. Two of these are:
 1. Every sentient creature has either a soul or, in edge cases, something that stands in for a soul.
 2. Energy cannot be created or destroyed.
 You probably know where this is going. Every creature's soul is recycled. An echo of an echo of an echo of a lifeform past. In this game, this manifests mechanically through one trait.
