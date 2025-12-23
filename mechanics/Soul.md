@@ -26,5 +26,3 @@ As is said in Character Creation, should a player character wind up meeting an u
 
 You should keep the Soul trait you decided upon for your first character in most cases. This represents the recycling of souls, as the death of the body means not the death of a Soul. 
 If the player or GM believes that it makes sense either narratively or mechanically, however, a new player character may adopt a new Soul and a new trait to match. An example of a reason to give a new character a new Soul is if the new character has an artificial Soul. Artificial Souls, as the name implies, are completely disconnected from the energy-recycling process that most Souls undergo, ergo a character with one *should not* have the same Soul or connected trait. 
-
-bbbbbbb test test test
