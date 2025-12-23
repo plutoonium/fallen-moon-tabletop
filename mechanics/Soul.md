@@ -1,6 +1,7 @@
 There are many uncertainties in the world. Academics need something to study, after all. Some things have been found for certain or, at least, somewhat certain, though. Two of these are:
 1. Every sentient creature has either a soul or, in edge cases, something that stands in for a soul.
 2. Energy cannot be created or destroyed.
+
 You probably know where this is going. Every creature's soul is recycled. An echo of an echo of an echo of a lifeform past. In this game, this manifests mechanically through one trait.
 
 # Soul
@@ -10,6 +11,7 @@ If you are playing a character in the setting of Fallen Moon, that character alm
 When you first create a character, you may choose between one of two things:
 1. A permanent buff of +1 to a single stat.
 2. A social trait of your choosing, approved by the GM.
+
 This trait applies to your character, yes, but it is not a trait of that character. It is a trait of their Soul. This trait is, for much of a Fallen Moon campaign, no different from any other trait of a character's. It is not unless your character dies that the trait is shown to be any different.
 ## Your next character
 As is said in Character Creation, should a player character wind up meeting an untimely end, it is recommended that the player create a new character to enter the narrative in their stead. The character creation process is largely the same the second time around, but things differ when Soul comes up.
